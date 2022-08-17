@@ -1,0 +1,26 @@
+nav {
+  background-image: linear-gradient(rgb(248, 167, 181), #8a496b);
+}
+
+.classLink {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+.classLink:hover {
+  color: #ffccde;
+}
+
+.grid-container {
+  display: grid;
+  row-gap: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.iconSize {
+  font-size: 20px;
+}
